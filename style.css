@@ -1,0 +1,16 @@
+body{
+  background: linear-gradient(#00FFFF, #041E42);
+  height: 100vh;
+
+}
+#container {
+  text-align: center;
+  font-family: 'DM Sans';
+  font-size: 1.6rem;
+}
+
+#container h1 {
+  font-size: 3.4rem;
+  color: hsl(210, 11%, 15%);;
+}
+
